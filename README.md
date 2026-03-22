@@ -1,7 +1,6 @@
 
 # Candela y Humo: 
-### my_storytelling
-Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
+
 
 
 Autores:  
@@ -10,9 +9,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: David Muñoz Martín
+- :woman: Paola Mesa Moya
 
 
 Proyecto (código): 
