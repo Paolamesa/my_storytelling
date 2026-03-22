@@ -18,8 +18,8 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
