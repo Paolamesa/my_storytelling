@@ -33,8 +33,7 @@ Tipo/Género:
 ![curro](https://github.com/user-attachments/assets/e6620f51-85e4-4a41-8f31-6d44502d5e9f)
 
 
-Nombre: 
-
+CURRO
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
@@ -67,7 +66,8 @@ Curro se enfrenta a una crisis de identidad marcada por la presión de su entorn
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: 
+![C](https://github.com/user-attachments/assets/db913cc5-d49b-40a1-a4b3-0a7bfb3fd919)
 
 
 - Banner/Teaser:  (enlace) 
