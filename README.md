@@ -30,7 +30,8 @@ Tipo/Género:
 ### Personaje
 
 
-![](img-nobody.png)
+![](img-nobod![curro](https://github.com/user-attachments/assets/e6620f51-85e4-4a41-8f31-6d44502d5e9f)
+y.png)
 
 Nombre: 
 
