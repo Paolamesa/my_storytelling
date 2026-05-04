@@ -70,10 +70,10 @@ Curro se enfrenta a una crisis de identidad marcada por la presión de su entorn
 ![C](https://github.com/user-attachments/assets/db913cc5-d49b-40a1-a4b3-0a7bfb3fd919)
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  https://www.figma.com/proto/y0xsb6VEDeeoJEOA7KJfaz/Sin-t%C3%ADtulo?node-id=1-2706&starting-point-node-id=1%3A2706&t=NBS076RAcA14ghMb-1 
 
 
-- Storytelling: (enlace) 
+- Storytelling: https://arcweave.com/app/project/BP6BWxQ0YN/play 
 
 
 
