@@ -73,7 +73,9 @@ Curro se enfrenta a una crisis de identidad marcada por la presión de su entorn
 - Banner/Teaser:  https://www.figma.com/proto/y0xsb6VEDeeoJEOA7KJfaz/Sin-t%C3%ADtulo?node-id=1-2706&starting-point-node-id=1%3A2706&t=NBS076RAcA14ghMb-1 
 
 
-- Storytelling: https://arcweave.com/app/project/BP6BWxQ0YN/play 
+- Storytelling: https://arcweave.com/app/project/BP6BWxQ0YN/play
+- Ren´Py: https://paolamesa.itch.io/curro
+  
 
 
 
